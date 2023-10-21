@@ -5,7 +5,7 @@ print(b)
 # IGNORE THIS
 import time
 time.sleep(5)
-print("Bey bey ...")
+print("Bye bye ...")
 
 
 # cat > example_calculator_sleep.py
